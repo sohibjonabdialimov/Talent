@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="57" viewBox="0 0 57 57">
+  <g id="Сгруппировать_7151" data-name="Сгруппировать 7151" transform="translate(-518.5 -2963)">
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="57" height="57" rx="10" transform="translate(518.5 2963)" fill="#ffb201" opacity="0.2"/>
+    <g id="wallet_outlined" transform="translate(531 2976.5)">
+      <path id="Icon_color" data-name="Icon color" d="M23.75,26.25H6.25a2.5,2.5,0,0,1-2.5-2.5V7.5A3.754,3.754,0,0,1,7.5,3.75H21.25a2.5,2.5,0,0,1,2.5,2.5H7.5a1.25,1.25,0,0,0,0,2.5H23.75a2.5,2.5,0,0,1,2.5,2.5v12.5A2.5,2.5,0,0,1,23.75,26.25Zm-17.5-15v12.5h17.5v-2.5H15A1.252,1.252,0,0,1,13.75,20V15A1.252,1.252,0,0,1,15,13.75h8.75v-2.5Zm10.625,5a.625.625,0,0,0-.625.625v1.25a.625.625,0,0,0,.625.625h1.25a.625.625,0,0,0,.625-.625v-1.25a.625.625,0,0,0-.625-.625Z" fill="#ffb201"/>
+    </g>
+  </g>
+</svg>

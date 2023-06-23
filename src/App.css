@@ -1,0 +1,38 @@
+.main{
+  max-width: 1520px;
+  width: 100%;
+  margin: 0 auto;
+  overflow-x: hidden;
+  position: relative;
+}
+.home {
+  background-color: #ebd0ff3d;
+}
+.section_title {
+  text-align: center;
+  font: normal normal bold 48px/60px Quicksand;
+  letter-spacing: 0px;
+  color: #2f281e;
+}
+.section_title::after {
+  content: "";
+  display: block;
+  margin: 0 auto;
+  background: transparent linear-gradient(180deg, #4bb665 0%, #41aad2 100%) 0% 0% no-repeat padding-box;
+  text-align: center;
+  border-radius: 10px;
+  height: 6px;
+  width: 352px;
+  margin-top: 17px;
+  margin-bottom: 17px;
+}
+.section_subtitle {
+  width: 482px;
+  margin: 0 auto;
+  text-align: center;
+  font: normal normal normal 18px/30px Nunito Sans;
+  letter-spacing: 0px;
+  color: #2f281e;
+  opacity: 0.6;
+  margin-bottom: 90px;
+}

@@ -1,0 +1,157 @@
+.specialist {
+  margin-top: 180px;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 170px;
+}
+.specialist_title {
+  font: normal normal bold 48px/60px Quicksand;
+  letter-spacing: 0px;
+  color: #2f281e;
+  margin-bottom: 25px;
+}
+.specialist_subtitle {
+  letter-spacing: 0px;
+  color: #333333;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.specialist_search {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #e1cbf1;
+  width: 792px;
+  margin: 0 auto;
+  border-radius: 50px;
+  display: flex;
+  margin-bottom: 36px;
+}
+.specialist_category {
+  padding: 16px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.specialist_category::after {
+  content: "";
+  display: block;
+  width: 1px;
+  height: 90%;
+  margin-left: 10px;
+  background-color: #ccc;
+}
+.specialist_img {
+  background-color: #dff6ee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  padding: 10px;
+}
+.specialist_img ion-icon {
+  font-size: 20px;
+  color: #4ab479;
+}
+.specialist_category p {
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+}
+.specialist_input {
+  width: 100%;
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+.specialist_input input {
+  width: 100%;
+  padding: 15px;
+  outline: none;
+  border: none;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+  font-size: 16px;
+}
+.specialist_input button {
+  background: transparent linear-gradient(238deg, #4bb665 0%, #41aad2 100%) 0% 0% no-repeat padding-box;
+  border-radius: 50px;
+  padding: 22px 43px 22px 33px;
+  display: flex;
+  gap: 17px;
+  align-items: center;
+  color: #fff;
+}
+.specialist_input button ion-icon {
+  font-size: 20px;
+}
+.specialist_choose {
+  letter-spacing: 0px;
+  color: #333333;
+  font-size: 20px;
+}
+.specialist_cards {
+  margin-top: 25px;
+  margin-bottom: 32px;
+}
+.first {
+  text-align: center;
+  display: flex;
+  gap: 12px;
+  padding: 0 212px;
+  margin-bottom: 16px;
+}
+.second {
+  text-align: center;
+  display: flex;
+  gap: 12px;
+  padding: 0 256px;
+  margin-bottom: 16px;
+}
+.third {
+  text-align: center;
+  display: flex;
+  gap: 12px;
+  padding: 0 371px;
+  margin-bottom: 16px;
+}
+.specialist_card {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #70d3d9;
+  padding: 10px 12px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  border-radius: 20px;
+}
+.specialist_card p {
+  letter-spacing: 0px;
+  color: #232347;
+}
+.specialist_card span {
+  display: block;
+  padding: 4px 10px;
+  border-radius: 20px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  background: transparent linear-gradient(226deg, #4bb665 0%, #41aad2 100%) 0% 0% no-repeat padding-box;
+}
+.specialist_more {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 21px;
+}
+.specialist_more button {
+  text-align: center;
+  letter-spacing: 0px;
+  color: #214674;
+  font-size: 18px;
+  background-color: transparent;
+}
+.specialist_more ion-icon{
+  font-size: 20px;
+}
