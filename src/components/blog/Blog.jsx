@@ -60,7 +60,6 @@ const Blog = () => {
                 <ion-icon name="chevron-forward-outline"></ion-icon>
               </div>
             </div>
-            <img className="blog_extra_img" src={extra} alt="" />
           </div>
         </div>
       </div>

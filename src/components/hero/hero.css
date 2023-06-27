@@ -51,16 +51,15 @@
 }
 .absolute_text {
   position: absolute;
-  /* font: normal normal 600 28px/38px Nunito; */
-  font-size: 28px;
+  font: normal normal 600 28px/38px Nunito;
   letter-spacing: 0px;
   color: #2f281e;
-  top: -260px;
-  left: -415px;
+  top: -316px;
+  left: -430px;
   font-weight: 500;
 }
 .absolute_text p{
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 
 .hero_extra_img {
